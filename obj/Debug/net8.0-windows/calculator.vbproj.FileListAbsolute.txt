@@ -1,0 +1,51 @@
+C:\Users\admin\source\repos\calculator\bin\Debug\net8.0-windows\calculator.exe
+C:\Users\admin\source\repos\calculator\bin\Debug\net8.0-windows\calculator.deps.json
+C:\Users\admin\source\repos\calculator\bin\Debug\net8.0-windows\calculator.runtimeconfig.json
+C:\Users\admin\source\repos\calculator\bin\Debug\net8.0-windows\calculator.dll
+C:\Users\admin\source\repos\calculator\bin\Debug\net8.0-windows\calculator.pdb
+C:\Users\admin\source\repos\calculator\obj\Debug\net8.0-windows\calculator.Form1.resources
+C:\Users\admin\source\repos\calculator\obj\Debug\net8.0-windows\calculator.vbproj.GenerateResource.cache
+C:\Users\admin\source\repos\calculator\obj\Debug\net8.0-windows\calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\calculator\obj\Debug\net8.0-windows\calculator.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\calculator\obj\Debug\net8.0-windows\calculator.AssemblyInfo.vb
+C:\Users\admin\source\repos\calculator\obj\Debug\net8.0-windows\calculator.vbproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\calculator\obj\Debug\net8.0-windows\calculator.dll
+C:\Users\admin\source\repos\calculator\obj\Debug\net8.0-windows\refint\calculator.dll
+C:\Users\admin\source\repos\calculator\obj\Debug\net8.0-windows\calculator.pdb
+C:\Users\admin\source\repos\calculator\obj\Debug\net8.0-windows\calculator.genruntimeconfig.cache
+C:\Users\admin\source\repos\calculator\obj\Debug\net8.0-windows\ref\calculator.dll
+C:\Users\admin\source\repos\calculator\obj\Debug\net8.0-windows\calculator.Form2.resources
+C:\Users\admin\OneDrive - Sol Plaatje University\New Folder\app dev\calculator\bin\Debug\net8.0-windows\calculator.exe
+C:\Users\admin\OneDrive - Sol Plaatje University\New Folder\app dev\calculator\bin\Debug\net8.0-windows\calculator.deps.json
+C:\Users\admin\OneDrive - Sol Plaatje University\New Folder\app dev\calculator\bin\Debug\net8.0-windows\calculator.runtimeconfig.json
+C:\Users\admin\OneDrive - Sol Plaatje University\New Folder\app dev\calculator\bin\Debug\net8.0-windows\calculator.dll
+C:\Users\admin\OneDrive - Sol Plaatje University\New Folder\app dev\calculator\bin\Debug\net8.0-windows\calculator.pdb
+C:\Users\admin\OneDrive - Sol Plaatje University\New Folder\app dev\calculator\obj\Debug\net8.0-windows\calculator.Form1.resources
+C:\Users\admin\OneDrive - Sol Plaatje University\New Folder\app dev\calculator\obj\Debug\net8.0-windows\calculator.Form2.resources
+C:\Users\admin\OneDrive - Sol Plaatje University\New Folder\app dev\calculator\obj\Debug\net8.0-windows\calculator.vbproj.GenerateResource.cache
+C:\Users\admin\OneDrive - Sol Plaatje University\New Folder\app dev\calculator\obj\Debug\net8.0-windows\calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive - Sol Plaatje University\New Folder\app dev\calculator\obj\Debug\net8.0-windows\calculator.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive - Sol Plaatje University\New Folder\app dev\calculator\obj\Debug\net8.0-windows\calculator.AssemblyInfo.vb
+C:\Users\admin\OneDrive - Sol Plaatje University\New Folder\app dev\calculator\obj\Debug\net8.0-windows\calculator.vbproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive - Sol Plaatje University\New Folder\app dev\calculator\obj\Debug\net8.0-windows\calculator.dll
+C:\Users\admin\OneDrive - Sol Plaatje University\New Folder\app dev\calculator\obj\Debug\net8.0-windows\refint\calculator.dll
+C:\Users\admin\OneDrive - Sol Plaatje University\New Folder\app dev\calculator\obj\Debug\net8.0-windows\calculator.pdb
+C:\Users\admin\OneDrive - Sol Plaatje University\New Folder\app dev\calculator\obj\Debug\net8.0-windows\calculator.genruntimeconfig.cache
+C:\Users\admin\OneDrive - Sol Plaatje University\New Folder\app dev\calculator\obj\Debug\net8.0-windows\ref\calculator.dll
+D:\calculator\bin\Debug\net8.0-windows\calculator.exe
+D:\calculator\bin\Debug\net8.0-windows\calculator.deps.json
+D:\calculator\bin\Debug\net8.0-windows\calculator.runtimeconfig.json
+D:\calculator\bin\Debug\net8.0-windows\calculator.dll
+D:\calculator\bin\Debug\net8.0-windows\calculator.pdb
+D:\calculator\obj\Debug\net8.0-windows\calculator.Form1.resources
+D:\calculator\obj\Debug\net8.0-windows\calculator.Form2.resources
+D:\calculator\obj\Debug\net8.0-windows\calculator.vbproj.GenerateResource.cache
+D:\calculator\obj\Debug\net8.0-windows\calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\calculator\obj\Debug\net8.0-windows\calculator.AssemblyInfoInputs.cache
+D:\calculator\obj\Debug\net8.0-windows\calculator.AssemblyInfo.vb
+D:\calculator\obj\Debug\net8.0-windows\calculator.vbproj.CoreCompileInputs.cache
+D:\calculator\obj\Debug\net8.0-windows\calculator.dll
+D:\calculator\obj\Debug\net8.0-windows\refint\calculator.dll
+D:\calculator\obj\Debug\net8.0-windows\calculator.pdb
+D:\calculator\obj\Debug\net8.0-windows\calculator.genruntimeconfig.cache
+D:\calculator\obj\Debug\net8.0-windows\ref\calculator.dll
