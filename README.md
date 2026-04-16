@@ -1,5 +1,5 @@
 # Calculator Application
-
+![interface](calculator-app/Screenshot 2026-04-16 085823.png)
 ## Overview
 
 This project is a desktop calculator application developed using Visual Basic .NET with Windows Forms. It provides basic arithmetic functionality along with additional operations such as percentage, modulus, and memory functions. The application demonstrates event-driven programming and graphical user interface development in a .NET environment.
